@@ -1,4 +1,4 @@
-# Princess-DEmo
+# Princess-Demo
 This is my first git Repository(Princess-Demo)
 <br>
 Author-Rubina Nakarmi
